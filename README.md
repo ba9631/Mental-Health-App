@@ -31,4 +31,26 @@ This project is a Hindi language-based sentiment analysis tool that classifies u
 ---
 
 ## 📂 File Structure
+├── sen_1k.csv # Dataset (Hindi text + labels) ├── app.py # Main application code ├── README.md # This file └── d794115c-0876...png # Screenshot image
+
+
+---
+
+## 🚀 How to Run
+
+1. **Install dependencies**:
+```bash
+pip install pandas scikit-learn gradio
+
+
+2.**Make sure all files are in the same directory**:
+
+app.py
+
+sen_1k.csv
+
+README.md
+
+3.Run the application:
+app.py
 
