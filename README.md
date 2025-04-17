@@ -37,13 +37,13 @@ This project is a Hindi language-based sentiment analysis tool that classifies u
 ---
 
 ## 🚀 How to Run
-
-1. **Install dependencies**:
 ```bash
+1.Install dependencies:
+
 pip install pandas scikit-learn gradio
 
 
-2.**Make sure all files are in the same directory**:
+2.Make sure all files are in the same directory:
 
 app.py
 
