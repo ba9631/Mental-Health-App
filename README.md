@@ -1,4 +1,4 @@
-# Hindi Sentiment Analysis
+# Mental_Health-App (Hindi Input)
 
 This project is a Hindi language-based sentiment analysis tool that classifies user input (sentence or paragraph) into **Positive**, **Negative**, or **Neutral** sentiment. If the sentiment is found to be negative, the system also provides helpful **stress-relief suggestions**.
 
@@ -16,7 +16,8 @@ This project is a Hindi language-based sentiment analysis tool that classifies u
 
 ## 📸 Screenshot
 
-![Screenshot](d794115c-0876-4eaa-81b7-39541c0df1bc.png)
+![image](https://github.com/user-attachments/assets/919df53a-725e-41b7-b3f6-db60d38c2a1b)
+
 
 ---
 
